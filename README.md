@@ -10,3 +10,5 @@
 
 6- execute o projeto: npm start
 
+video referencia: https://www.youtube.com/watch?v=mwNATxfUsgI
+
